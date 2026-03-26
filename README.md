@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd6bzNkNXY0NThsNDUxYmZ3OTFxNWZhdmN5MTBocXY4OXJ1YTA1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/XhnvRAMi5g6Aoc1A80/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -39,6 +35,18 @@
   </a>
   <a href="@PaperCompiler" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd6bzNkNXY0NThsNDUxYmZ3OTFxNWZhdmN5MTBocXY4OXJ1YTA1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/XhnvRAMi5g6Aoc1A80/giphy.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31iglih2552ppg2sfkfrtyb5dtjq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iglih2552ppg2sfkfrtyb5dtjq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
